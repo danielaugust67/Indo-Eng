@@ -28,7 +28,7 @@ Aplikasi latihan menerjemahkan dari Bahasa Indonesia ke Bahasa Inggris secara ot
 ## 📦 Instalasi
 
 ```bash
-git clone https://github.com/username/indonesia-english-practice.git
+git clone https://github.com/danielaugust67/Trasnlify.git
 cd indonesia-english-practice
 npm install
 ```
