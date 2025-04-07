@@ -29,7 +29,7 @@ Aplikasi latihan menerjemahkan dari Bahasa Indonesia ke Bahasa Inggris secara ot
 
 ```bash
 git clone https://github.com/danielaugust67/Translatify.git
-cd indonesia-english-practice
+cd Translatify
 npm install
 ```
 
