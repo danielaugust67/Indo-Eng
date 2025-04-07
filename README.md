@@ -2,7 +2,7 @@
 
 Aplikasi latihan menerjemahkan dari Bahasa Indonesia ke Bahasa Inggris secara otomatis menggunakan **Google Gemini API**. Cocok untuk belajar kosakata dan kalimat sehari-hari dengan pilihan **kategori** dan **tingkat kesulitan**.
 
-![App Screenshot](screenshot.png) <!-- Tambahkan screenshot app kamu di sini -->
+![Demo](./assets/demo.gif) <!-- Tambahkan screenshot app kamu di sini -->
 
 ---
 
@@ -70,7 +70,7 @@ npm run build
 
 ## 📄 Lisensi
 
-MIT © [Your Name](https://github.com/yourusername)
+MIT © [Daniel](https://github.com/danielaugust67)
 
 ---
 
