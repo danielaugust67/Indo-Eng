@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = `https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key=AIzaSyBiNwiiC0xFF6QfOZpST_izP8rQo704aTQ`;
+const URL = `https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY`;
 
 export const generateTranslationQuestion = async (
   category: string,
